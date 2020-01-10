@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a134d7b7-90e6-4a13-8e3a-cfb6db1cd68b" name="Default Changelist" comment="" />
+    <list default="true" id="a134d7b7-90e6-4a13-8e3a-cfb6db1cd68b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/en/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/en/DataStructure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/en/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/en/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/en/all.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WAzvCQ55aEmJtbuKoVCQKJfMZu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,10 +38,18 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -48,17 +78,24 @@
       <option name="presentableId" value="Default" />
       <updated>1578607415590</updated>
       <workItem from="1578607417132" duration="147000" />
-      <workItem from="1578607666091" duration="89000" />
+      <workItem from="1578607666091" duration="4831000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="938" y="23" key="SettingsEditor" timestamp="1578607744636">
+    <state x="1136" y="23" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578674280022">
       <screen x="76" y="23" width="1844" height="1057" />
     </state>
-    <state x="938" y="23" key="SettingsEditor/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578607744636" />
+    <state x="1136" y="23" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578674280022" />
+    <state x="896" y="23" key="SettingsEditor" timestamp="1578609457263">
+      <screen x="76" y="23" width="1844" height="1057" />
+    </state>
+    <state x="896" y="23" key="SettingsEditor/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578609457263" />
   </component>
 </project>
