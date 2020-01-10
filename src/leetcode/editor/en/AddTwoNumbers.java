@@ -36,18 +36,28 @@ public class AddTwoNumbers {
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode result = null;
+        ListNode result = new ListNode(0);
         ListNode temp = result;
         int carry = 0;
-        while (l1 != null || l2 != null) {
-            int val = carry;
-            if (l1 != null) val += l1.val;
-            if (l2 != null) val += l2.val;
-            temp = new ListNode(val % 10);
-            carry = val / 10;
-            temp = temp.next;
-            l1 = l1.next;
-            l2 = l2.next;
+        while (true) {
+            temp.val = carry;
+            if (l1 != null) {
+                temp.val = temp.val + l1.val;
+                l1 = l1.next;
+            }
+            if (l2 != null) {
+                temp.val = temp.val + l2.val;
+                l2 = l2.next;
+            }
+            carry = temp.val / 10;
+            temp.val = temp.val % 10;
+            if (l1 != null || l2 != null) {
+                temp.next = new ListNode(0);
+                temp = temp.next;
+            } else break;
+        }
+        if (carry != 0) {
+            temp.next = new ListNode(carry);
         }
         return result;
     }
