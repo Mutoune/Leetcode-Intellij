@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a134d7b7-90e6-4a13-8e3a-cfb6db1cd68b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/en/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/en/AddTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +44,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
@@ -92,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578607415590</updated>
       <workItem from="1578607417132" duration="147000" />
-      <workItem from="1578607666091" duration="9055000" />
+      <workItem from="1578607666091" duration="9246000" />
     </task>
     <servers />
   </component>
@@ -103,11 +103,35 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1120" y="23" key="#Project_Structure" timestamp="1578681358108">
+      <screen x="76" y="23" width="1844" height="1057" />
+    </state>
+    <state x="1120" y="23" key="#Project_Structure/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681358108" />
+    <state x="1415" y="37" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578681335258">
+      <screen x="76" y="23" width="1844" height="1057" />
+    </state>
+    <state x="1415" y="37" key="#com.intellij.fileTypes.FileTypeChooser/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681335258" />
     <state x="1135" y="23" width="785" height="654" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578677413147">
       <screen x="76" y="23" width="1844" height="1057" />
     </state>
     <state x="1136" y="23" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578674280022" />
     <state x="1135" y="23" width="785" height="654" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1920.-324.1920.1080/76.23.1844.1057@1920.-324.1920.1080" timestamp="1578677413147" />
+    <state width="939" height="119" key="GridCell.Tab.0.bottom" timestamp="1578681241900">
+      <screen x="1920" y="-301" width="1920" height="1057" />
+    </state>
+    <state width="939" height="119" key="GridCell.Tab.0.bottom/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681241900" />
+    <state width="939" height="119" key="GridCell.Tab.0.center" timestamp="1578681241899">
+      <screen x="1920" y="-301" width="1920" height="1057" />
+    </state>
+    <state width="939" height="119" key="GridCell.Tab.0.center/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681241899" />
+    <state width="939" height="119" key="GridCell.Tab.0.left" timestamp="1578681241899">
+      <screen x="1920" y="-301" width="1920" height="1057" />
+    </state>
+    <state width="939" height="119" key="GridCell.Tab.0.left/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681241899" />
+    <state width="939" height="119" key="GridCell.Tab.0.right" timestamp="1578681241900">
+      <screen x="1920" y="-301" width="1920" height="1057" />
+    </state>
+    <state width="939" height="119" key="GridCell.Tab.0.right/1920.-301.1920.1057/76.23.1844.1057@1920.-301.1920.1057" timestamp="1578681241900" />
     <state x="896" y="23" key="SettingsEditor" timestamp="1578609457263">
       <screen x="76" y="23" width="1844" height="1057" />
     </state>
